@@ -1,0 +1,33 @@
+.App
+{
+    border: 2px solid saddlebrown;
+    text-align: center;
+    padding: 2% 2%;
+    width: 50%;
+    margin: 10px auto;
+}
+span
+{
+    color: rgb(209, 35, 209);
+}
+button
+{
+    margin-left: 5px;
+    color: slateblue;
+    text-transform: capitalize;
+    border-radius: 15px;
+    font-size: 22px;
+    width: 100px;
+    height: 80px;
+}
+button:focus
+{
+    outline: none;
+}
+h1{
+    color: seagreen;
+}
+p{
+    color: tomato;
+    font-size: x-large;
+}
